@@ -1,0 +1,53 @@
+{
+	"landing": {
+		"firstName": "Aidan",
+		"lastName": "Reidel",
+		"phoneNumber": "",
+		"bio": "Junior Software Engineer and Computer Science Student at Portland State University",
+    		"email": "aidan.reidel@gmail.com",
+    		"linkedin": "https://www.linkedin.com/in/aidan-reidel/",
+		"github": "https://github.com/aidanreidel"
+	},
+	"experience": [
+		{
+				"position": "Web Developer",
+				"organization": "Company one",
+				"aboutWork": "Details about work here",
+				"fromDate": "Date of starting",
+				"toDate": "Present"
+		},
+		{
+			"position": "App Developer",
+			"organization": "Company 2",
+			"aboutWork": "Details about work here",
+			"fromDate": "Date of starting",
+			"toDate": "ending date"
+		}
+	],
+	"education": [{
+			"university": "University or School Name",
+			"degree": "Major",
+			"gpa": "GPA",
+			"fromDate": "Date of start",
+			"toDate": "Date of completion"
+		}
+	],
+	"skills": [{
+			"name": "skill1"
+		},
+		{
+			"name": "skill2"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Descriptive detail about your interests for paragraph one",
+		"paragraphTwo": "Descriptive detail about your interests for paragraph two"
+	},
+	"awards": [{
+			"awardDetail": "Your first award"
+		},
+		{
+			"awardDetail": "Your second award"
+		}
+	]
+}
