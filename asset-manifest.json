@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/GitHub-Education-Portfolio/static/css/main.34de6062.chunk.css",
-    "main.js": "/GitHub-Education-Portfolio/static/js/main.a68e1d45.chunk.js",
-    "main.js.map": "/GitHub-Education-Portfolio/static/js/main.a68e1d45.chunk.js.map",
-    "runtime~main.js": "/GitHub-Education-Portfolio/static/js/runtime~main.60ee6b4b.js",
-    "runtime~main.js.map": "/GitHub-Education-Portfolio/static/js/runtime~main.60ee6b4b.js.map",
-    "static/js/2.1288cb2e.chunk.js": "/GitHub-Education-Portfolio/static/js/2.1288cb2e.chunk.js",
-    "static/js/2.1288cb2e.chunk.js.map": "/GitHub-Education-Portfolio/static/js/2.1288cb2e.chunk.js.map",
-    "index.html": "/GitHub-Education-Portfolio/index.html",
-    "precache-manifest.7b5e33f59176255a699650e82bbd67e2.js": "/GitHub-Education-Portfolio/precache-manifest.7b5e33f59176255a699650e82bbd67e2.js",
-    "service-worker.js": "/GitHub-Education-Portfolio/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/GitHub-Education-Portfolio/static/css/main.34de6062.chunk.css.map",
-    "static/media/profile.jpg": "/GitHub-Education-Portfolio/static/media/profile.1c041ffd.jpg"
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.242993c4.chunk.js",
+    "main.js.map": "/static/js/main.242993c4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.1288cb2e.chunk.js": "/static/js/2.1288cb2e.chunk.js",
+    "static/js/2.1288cb2e.chunk.js.map": "/static/js/2.1288cb2e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.217d5534a709062f6bbf7f2efe0fea3f.js": "/precache-manifest.217d5534a709062f6bbf7f2efe0fea3f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
+    "static/media/profile.jpg": "/static/media/profile.1c041ffd.jpg"
   }
 }
